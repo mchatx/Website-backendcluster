@@ -1,0 +1,19 @@
+{
+    "FirebaseCred":"",
+    "FirebaseDBURL":"",
+
+    "MongoWriter":"",
+    "MongoReader":"",
+    "MongoLocalProxy":"",
+
+    "JWTKey":"",
+    "BOT_TOKEN":"",
+
+    "CORSOrigin":"",
+
+    "ListenerPort": 33332,
+    "ScraperPort": 36912,
+    "PubSubPort": 33330,
+    "MainPort": 33333,
+    "SecuredPort": 33331
+}

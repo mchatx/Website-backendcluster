@@ -1,0 +1,17 @@
+{
+  "name": "mchatxbot",
+  "version": "1.0.0",
+  "description": "MChatX notification bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "MonMon Mnemonic",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.1",
+    "eventsource": "^1.1.0",
+    "mongodb": "^3.6.5"
+  }
+}

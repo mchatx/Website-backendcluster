@@ -1,0 +1,15 @@
+{
+    "apps" : [{
+      "name"        : "Scrapper",
+      "script"      : "npm run start",
+      "env": {
+        "DISPLAY": ":98"
+      }
+    },
+      {
+        "name"        : "Xvfb2",
+        "interpreter" : "none",
+        "script"      : "Xvfb",
+        "args"        : ":98"
+      }]
+  }
